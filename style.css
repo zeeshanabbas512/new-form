@@ -1,0 +1,44 @@
+.master{
+   width: 550px;
+   height: 55vh;
+   background-color: rgb(255, 255, 255);
+   margin-left: 360px;
+   margin-top: 120px
+}
+.parent h1{
+text-align: center;
+font-size: 26px;
+color: rgba(0, 0, 0, 0.743);
+padding-top: 15px;
+}
+.child{
+    margin-left: 44px;    
+}
+.child input{
+    padding: 15px;
+    width: 200px;
+    border-radius: 50px;
+}
+.Email{
+    margin-left: 45px;
+    padding: 15px;
+    width: 430px;
+    border-radius: 50px;    
+}
+.second{
+    margin-left: 44px;
+}
+.second input{
+    padding: 15px;
+    width: 198px;
+    border-radius: 50px;
+    margin-top: 14px;
+}
+.end{
+    margin-left: 45px;
+    padding: 15px;
+    width: 460px;
+    border-radius: 50px;
+    background-color: rgb(115, 130, 243);
+    color: white;
+}
